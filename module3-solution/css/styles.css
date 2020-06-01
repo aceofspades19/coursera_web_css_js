@@ -1,0 +1,17 @@
+.content {
+    background-color: lightgray;
+   
+}
+
+.container-fluid {
+    padding-left:50px;
+    padding-right:50px;
+}
+
+.nav li {
+    border-top: 1px solid black; 
+}
+
+.nav li:first-child {
+    border-top: none; 
+}
